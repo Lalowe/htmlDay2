@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-size: 30;
+    text-decoration: underline;
+    letter-spacing: 7px;
+}
+
+body {
+    background-color: teal;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 40%;
+}
+
+.left,
+.right {
+    display: inline-block;
+}

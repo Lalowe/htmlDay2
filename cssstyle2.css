@@ -1,0 +1,45 @@
+#third {
+    color: green;
+}
+
+#first {
+    color: blue;
+}
+
+h3 {
+    color: yellow;
+}
+
+p {
+    color: black;
+}
+
+span p {
+    color: rgb(160, 130, 130);
+}
+
+#fifth p {
+    color: hotpink;
+}
+
+div {
+    border-style: solid;
+    margin: 5px
+}
+
+#third p {
+    display: none;
+}
+
+#fourth h1 {
+    display: none;
+}
+
+#second * {
+    /* when you use asterick it means that this will conclude all .. */
+    visibility: hidden;
+}
+
+#sixth img {
+    visibility: visible;
+}

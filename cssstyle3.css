@@ -1,0 +1,45 @@
+#third {
+    color: green;
+}
+
+#first p {
+    color: blue;
+    font-size: larger;
+}
+
+h3 {
+    color: yellow;
+}
+
+p {
+    color: black;
+}
+
+span p {
+    color: rgb(160, 130, 130);
+}
+
+#fifth p {
+    color: hotpink;
+}
+
+div {
+    border-style: solid;
+    margin: 5px
+}
+
+#third p {
+    visibility: visible;
+}
+
+#fourth h1 {
+    visibility: visible;
+}
+
+#second {
+    visibility: visible;
+}
+
+#sixth img {
+    visibility: visible;
+}
